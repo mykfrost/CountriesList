@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.chinatown254.android.countrieslist"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.chinatown254.android.countrieslist"
